@@ -1,0 +1,13 @@
+{
+    "name": "EmailVerification",
+    "alias": "emailverification",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\EmailVerification\\Providers\\EmailVerificationServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}

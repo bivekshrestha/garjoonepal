@@ -1,0 +1,13 @@
+{
+    "name": "Classified",
+    "alias": "classified",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Classified\\Providers\\ClassifiedServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
